@@ -1,5 +1,3 @@
-package oop.interfaces;
-
 interface Voice{
     void speak(String str );
 }
